@@ -1,0 +1,26 @@
+{
+  "fps": 24,
+  "endHoldFrames": 14,
+  "endCardFrames": 66,
+  "shots": [
+    {"id":"hook","clip":"c07","in":5.6,"out":7.7,"zoom":[1.0,1.2],"focal":[0.5,0.4],"tension":0.9,"trans":"cut","shake":2.5,"riser":true,"heartbeat":true,"dialogGain":-8},
+    {"id":"s01","clip":"c01","in":0.0,"out":3.2,"zoom":[1.0,1.08],"focal":[0.45,0.55],"tension":0.2,"trans":"dip","boom":true},
+    {"id":"s02","clip":"c01","in":3.2,"out":8.04,"zoom":[1.12,1.22],"focal":[0.3,0.4],"tension":0.2,"trans":"cut"},
+    {"id":"s03","clip":"c02","in":0.3,"out":3.4,"zoom":[1.0,1.06],"focal":[0.45,0.55],"tension":0.25,"trans":"cut"},
+    {"id":"s04","clip":"c02","in":3.4,"out":8.04,"zoom":[1.2,1.28],"focal":[0.4,0.45],"tension":0.3,"trans":"cut"},
+    {"id":"s05","clip":"c03","in":0.6,"out":5.5,"zoom":[1.0,1.1],"focal":[0.5,0.5],"tension":0.4,"trans":"dip"},
+    {"id":"s06","clip":"c03","in":5.5,"out":8.04,"zoom":[1.15,1.25],"focal":[0.5,0.45],"tension":0.45,"trans":"cut"},
+    {"id":"s07","clip":"c04","in":0.35,"out":5.8,"zoom":[1.0,1.12],"focal":[0.45,0.45],"tension":0.5,"trans":"cut"},
+    {"id":"s08","clip":"c04","in":5.8,"out":7.2,"zoom":[1.2,1.35],"focal":[0.5,0.33],"tension":0.7,"trans":"cut","punches":[{"at":0.15,"to":1.12}],"thud":[0.15]},
+    {"id":"s09","clip":"c05","in":0.8,"out":4.9,"zoom":[1.0,1.1],"focal":[0.5,0.55],"tension":0.45,"trans":"cut"},
+    {"id":"s10","clip":"c05","in":4.9,"out":7.8,"zoom":[1.1,1.3],"focal":[0.5,0.4],"tension":0.5,"trans":"cut"},
+    {"id":"s11","clip":"c06","in":0.25,"out":2.1,"zoom":[1.0,1.08],"focal":[0.5,0.5],"tension":0.45,"trans":"flash"},
+    {"id":"s12","clip":"c06","in":3.3,"out":8.04,"zoom":[1.05,1.3],"focal":[0.45,0.5],"tension":0.6,"trans":"cut"},
+    {"id":"s13","clip":"c07","in":0.3,"out":5.2,"zoom":[1.0,1.1],"focal":[0.5,0.5],"tension":0.6,"trans":"cut"},
+    {"id":"s14","clip":"c07","in":5.2,"out":7.8,"zoom":[1.2,1.4],"focal":[0.5,0.38],"tension":0.85,"trans":"cut","heartbeat":true,"shake":1.5,"punches":[{"at":0.1,"to":1.1}],"thud":[0.1]},
+    {"id":"s15","clip":"c08","in":0.0,"out":4.3,"zoom":[1.0,1.08],"focal":[0.4,0.5],"tension":0.6,"trans":"dip"},
+    {"id":"s16","clip":"c08","in":4.3,"out":8.04,"zoom":[1.1,1.22],"focal":[0.45,0.4],"tension":0.75,"trans":"cut"},
+    {"id":"s17","clip":"c09","in":0.9,"out":3.65,"zoom":[1.1,1.2],"focal":[0.5,0.38],"tension":0.8,"trans":"cut"},
+    {"id":"s18","clip":"c09","in":3.65,"out":7.6,"zoom":[1.2,1.4],"focal":[0.5,0.38],"tension":1.0,"trans":"cut","punches":[{"at":0.6,"to":1.1}],"thud":[0.6],"riser":true}
+  ]
+}
